@@ -9,7 +9,4 @@ I am Gongshu!
 ## My github page
 [Link](https://github.com/SinSpecter)
 
-![Image](http://url/a.png](https://c4.wallpaperflare.com/wallpaper/338/304/848/yu-gi-oh-deep-eyes-white-dragon-hd-wallpaper-preview.jpg)
-![Image][1]
-⋮
-[1]:http://url/b.jpg](http://url/a.png](https://c4.wallpaperflare.com/wallpaper/338/304/848/yu-gi-oh-deep-eyes-white-dragon-hd-wallpaper-preview.jpg
+![Image](https://c4.wallpaperflare.com/wallpaper/338/304/848/yu-gi-oh-deep-eyes-white-dragon-hd-wallpaper-preview.jpg)
